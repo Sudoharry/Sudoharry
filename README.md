@@ -25,28 +25,28 @@ I find joy in every challenge that pushes the boundaries of efficiency.
 ## 🛠 **My Toolkit: The Ingredients of My Craft**
 
 ### 🧑‍💻 **Programming Language Stack**
-- 🔸 Bash  
-- 🔸 Python  
-- 🔸 ASP.NET  
+ 🔸 Bash  
+ 🔸 Python  
+ 🔸 ASP.NET  
 
 ### 💻 **Operating Systems Stack**
-- 🔹 Linux  
-- 🔹 Ubuntu  
+ 🔹 Linux  
+ 🔹 Ubuntu  
 
 ### 🗄️ **Database Stack**
-- 🔸 MySQL  
-- 🔸 SQL Server  
+🔸 MySQL  
+🔸 SQL Server  
 
 ### ☁️ **DevOps & Cloud Tools**
-- 🔹 AWS | Ansible | Terraform | Jenkins  
-- 🔹 Docker | Kubernetes | Nginx  
-- 🔹 Prometheus | Grafana  
+ 🔹 AWS | Ansible | Terraform | Jenkins  
+ 🔹 Docker | Kubernetes | Nginx  
+ 🔹 Prometheus | Grafana  
 
 ### 🛠️ **Project Management Tools**
-- 🔸 Git | GitHub | Jira  
+🔸 Git | GitHub | Jira  
 
 ### ✏️ **Editor/IDE I Adore**
-- 🔹 **VS Code** – where simplicity meets power!  
+🔹 **VS Code** – where simplicity meets power!  
 
 ---
 
