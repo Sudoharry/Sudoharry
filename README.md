@@ -42,7 +42,8 @@ Let me share what I’m working on right now:
    - Tools: Terraform | AWS | GitOps | VS code (IDE).  
 
 2️⃣ Learning Expedition:  
-   - Learning Focus Areas:
+
+  Learning Focus Areas:
    -  Cloud Computing: Enhancing expertise in cloud platforms and architecture.
    - Linux OS: Advanced system management and automation.
    - GitOps: Streamlining deployments with Git-based workflows.
